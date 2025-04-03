@@ -7,3 +7,10 @@
 
 # Node
 node_modules
+
+.history/
+
+.history/
+*.ts_*
+*.env_*
+*.json_*
